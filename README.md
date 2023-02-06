@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning 
 - 💬 Ask me about Java,SQL
 - 📫 How to reach me: nbdush@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I like to cook
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushyanthimahavithana&label=Profile%20views&color=0e75b6&style=flat" alt="dushyanthimahavithana
