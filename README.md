@@ -1,6 +1,6 @@
 <h2 align="left">Hi, I'm Dushyanthi Mahavithana!👋</h2>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Media Horizon Lanka (Pvt) Ltd
 - 🌱 I’m currently learning 
 - 💬 Ask me about Java,SQL
 - 📫 How to reach me: nbdush@gmail.com
