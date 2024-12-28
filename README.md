@@ -1,11 +1,8 @@
 <h2 align="left">Hi, I'm Dushyanthi Mahavithana!👋</h2>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 💬 Ask me about 
+
 - 📫 How to reach me: nbdush@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Playing Games
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushyanthimahavithana&label=Profile%20views&color=0e75b6&style=flat" alt="dushyanthimahavithana
