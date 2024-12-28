@@ -1,8 +1,8 @@
 <h2 align="left">Hi, I'm Dushyanthi Mahavithana!👋</h2>
 
-- 🔭 I’m currently working on Media Horizon Lanka (Pvt) Ltd
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
-- 💬 Ask me about Java,SQL
+- 💬 Ask me about 
 - 📫 How to reach me: nbdush@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Playing Games
