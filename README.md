@@ -3,6 +3,7 @@
 
 - 📫 How to reach me: nbdush@gmail.com
 - 😄 Pronouns: She/Her
+- My Profile: https://dushyanthimahavithana.github.io/mysite/
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushyanthimahavithana&label=Profile%20views&color=0e75b6&style=flat" alt="dushyanthimahavithana
